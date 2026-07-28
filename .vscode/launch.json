@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Enviro365Application<enviro365-withdrawals>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.enviro.assessment.junior.caitlinnaidu.Enviro365Application",
+            "projectName": "enviro365-withdrawals",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
